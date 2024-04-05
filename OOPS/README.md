@@ -6,9 +6,9 @@ The workspace contains two folders by default, where:
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Meanwhile, the compiled output files will be generated in the `bin` folder by default in VS code
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> The src file contains call the Inheritance files You can refer to that
 
 ## Dependency Management
 
