@@ -1,5 +1,4 @@
-package part1;
-
+package AnimalClass;
 public class Main {
 
     public static void main(String args[]) {

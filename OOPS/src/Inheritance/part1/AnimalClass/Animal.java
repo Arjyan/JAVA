@@ -1,5 +1,4 @@
-package part1;
-
+package AnimalClass;
 public class Animal {
     private String name;
     private String type;
