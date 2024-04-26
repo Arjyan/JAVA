@@ -7,3 +7,6 @@ beginner friendly
 ex-**MainComplexNumber.java**
 
 -**I will reorganize files after adding all files and folder (completion)**
+-In the file **OOPS/Inheritance**
+#^ Part1 is refering to **Inheritance**
+#^ part2 is refering to **polymorphism**
